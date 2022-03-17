@@ -38,5 +38,5 @@
             add_relish_assets(plugin_config_file);
         }
     }
-    load_relish_assistant('https://relishai.storage.googleapis.com/probioticmaker-config.js');
+    load_relish_assistant('https://venkat-relishly.github.io/relishai-assets/public/js/relishai-config.js');
 })();
